@@ -1,0 +1,5 @@
+## Weather API Project Summary
+
+    A Simple CLI application that lets a user input a city, and it
+    returns the location, weather in celsius and fahrenheit, and
+    the current conditions
